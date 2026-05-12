@@ -1,0 +1,14 @@
+﻿# Build outputs
+bin/
+obj/
+
+# .NET tools (tool-path installs)
+.tools/
+
+# IDE
+.vs/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
